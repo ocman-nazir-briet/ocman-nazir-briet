@@ -3,10 +3,10 @@
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking for graduates from IT field. 
 - 📫 go to www.briets.com to reach me.
-
+- 📫 go to ocman-nazir-briet.github.io/devbriet to reach me.
 
 Languages and Tools:
-Django Ruby on Rails HTML5 CSS3 CSharp JavaScript React Node.js python SQL postgreSQL
+Django, Ruby on Rails, HTML5, CSS3, C, JavaScript, React, Python, SQL, PostgreSQL
 
 
 
