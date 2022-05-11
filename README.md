@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ocman-nazir-briet
 - 👀 I’m interested in Cyber Security.
+- 👀 I'm a full stack Django developer
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking for graduates from IT field. 
 - 📫 go to www.briets.com to reach me.
