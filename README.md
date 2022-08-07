@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @ocman-nazir-briet
-- 👀 I’m interested in Cyber Security.
-- 👀 I'm a full stack Django developer
+- 👀 I'm a Full Stack Developer(Django + React JS)
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking for graduates from IT field. 
-- 📫 go to www.briets.com to reach me.
-- 📫 go to https://ocman-nazir-briet.github.io/devbriet/ to reach me.
+- 📫 go to www.devbriet.com to reach me.
+- 📫 go to https://ocman-nazir-briet.github.io/devbriets/ to reach me.
 
 Languages and Tools:
-Django, Ruby on Rails, HTML5, CSS3, C, JavaScript, React, Python, SQL, PostgreSQL
+Python, C++, C, JavaScript, Django, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
+
+If you wanna hire me for your projects then contact me on http://www.devbriet.com/contact-us.html or send mail at info@devbriet.com
 
 
 
