@@ -27,7 +27,7 @@ Don't be surprised, it's just what I love doing!
 Languages and Tools:
 Python, C++, C, JavaScript, Django, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
 
-If you wanna hire me for your projects then contact me on http://www.devbriet.com/contact-us.html or send mail at info@devbriet.com
+If you wanna hire me for your projects then contact me on http://www.devbriet.com/contact-us.html or send mail to info@devbriet.com
 
 
 
