@@ -29,6 +29,8 @@ Python, C++, C, JavaScript, Django, Node JS, React, HTML5, CSS3, SQL, MYSQL, Pos
 
 If you wanna hire me for your projects then contact me on http://www.devbriet.com/contact-us.html or send mail to info@devbriet.com
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" alt="Ocman's GitHub stats" />
+
 
 
 <!---
