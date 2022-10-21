@@ -20,7 +20,7 @@ Don't be surprised, it's just what I love doing!
 
 
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently studying Computer Science.
+- 🌱 I’m currently doing Masters in Data Science.
 - 💞️ I’m looking for graduates from IT field. 
 - 📫 go to www.devbriet.com to reach me.
 
