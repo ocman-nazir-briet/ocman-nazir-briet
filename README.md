@@ -8,7 +8,7 @@ I'm **Ocman Nazir Briet**. I'm a Full Stack Developer and Software Engineer by p
 <p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,react,html,css,tailwind,javascript,vscode,cli" alt="Tech Stack" /> </p>
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [http://devbriet](http://devbriet.com?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a personal website at [https://devbriet](https://devbriets.pythonanywhere.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
 * 💬 [Telegram](https://t.me/blackghost1337)
 
 ## 👋 If you need some advices or mentorship
@@ -16,18 +16,18 @@ I'm **Ocman Nazir Briet**. I'm a Full Stack Developer and Software Engineer by p
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on [Appointment](http://www.devbriet.com/request-quote.html)**
+👉 **Feel free to request an appointement on [Appointment]([https://www.devbriet.com](http://devbriets.pythonanywhere.com/)/request-quote.html)**
 
 
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently doing Masters in Data Science.
 - 💞️ I’m looking for graduates from IT field. 
-- 📫 go to www.devbriet.com to reach me.
+- 📫 go to [http://devbriets.pythonanywhere.com] to reach me.
 
 Languages and Tools:
 Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
 
-If you wanna hire me for your projects then contact me on http://www.devbriet.com/contact-us.html or send mail to info@devbriet.com
+If you wanna hire me for your projects then contact me on http://devbriets.pythonanywhere.com//contact-us.html or send mail to info@devbriet.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" alt="Ocman's GitHub stats" />
 
