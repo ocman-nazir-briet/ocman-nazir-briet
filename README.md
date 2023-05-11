@@ -1,3 +1,17 @@
+<img src="https://github.com/wajeehamushtaq/wajeehamushtaq/blob/master/github.gif" />
+<br />
+<p align="center">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeehamushtaq&hide=python&layout=compact&theme=jolly" alt="wajeehamushtaq's Github Languages"/>
+<p/>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wajeehamushtaq&show_icons=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wajeehamushtaq&theme=jolly" />
+</p>
+
+  <table align="center">
+ <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"/> Connect with me  :</th>
+<td>
 # Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer | Now living in Pakistan
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow)](https://twitter.com/ocmannazirbriet)
