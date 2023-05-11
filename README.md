@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true" />
-  
-</p>
-
 # Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer | Now living in Pakistan
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow)](https://twitter.com/ocmannazirbriet)
@@ -34,9 +29,10 @@ Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, 
 
 If you wanna hire me for your projects then contact me on http://devbriets.pythonanywhere.com//contact-us.html or send mail to info@devbriet.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> | <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" alt="Ocman's GitHub stats" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" alt="Ocman's GitHub stats" />
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet" />
+</p>
 
 
 <!---
