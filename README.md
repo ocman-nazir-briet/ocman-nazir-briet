@@ -9,7 +9,7 @@ I'm **Ocman Nazir Briet**. I'm a Full Stack Developer and Software Engineer by p
 
 
 <p align="center">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> |   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" alt="Ocman's GitHub stats" /> |   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet" />
 
 </p>
 
