@@ -7,7 +7,6 @@ I'm **Ocman Nazir Briet**. I'm a Full Stack Developer and Software Engineer by p
 
 <p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,react,html,css,tailwind,javascript,vscode,cli" alt="Tech Stack" /> </p>
 
-
 ## 📫 How to reach me
 
 * 🔗 I have a personal website at [https://devbriet](https://devbriets.pythonanywhere.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
