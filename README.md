@@ -5,6 +5,9 @@
 
 I'm **Ocman Nazir Briet**. I'm a Full Stack Developer and Software Engineer by passion and an expat by choice living now in Lahore, Pakistan. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) in 2020 and have been passionate about open-source since. I'm also interested in data Science Engineering. I'm a Certified Ethical Hacker. I'm always working on a new project to help the community.
 
+<p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,react,html,css,tailwind,javascript,vscode,cli" alt="Tech Stack" /> </p>
+
+
 ## 📫 How to reach me
 
 * 🔗 I have a personal website at [https://devbriet](https://devbriets.pythonanywhere.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
@@ -28,7 +31,6 @@ Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, 
 
 If you wanna hire me for your projects then contact me on http://devbriets.pythonanywhere.com//contact-us.html or send mail to info@devbriet.com
 
-<p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,react,html,css,tailwind,javascript,vscode,cli" alt="Tech Stack" /> </p>
 
 
 <p align="center">
