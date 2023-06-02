@@ -9,7 +9,7 @@ I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and 
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [devbriet.com](https://devbriets.pythonanywhere.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a personal website at [devbriet.com](http://devbriet.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
 * 💬 [Telegram](https://t.me/blackghost1337)
 
 ## 👋 If you need some advices or mentorship
@@ -17,18 +17,18 @@ I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and 
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on [Appointments]([https://www.devbriet.com](http://devbriets.pythonanywhere.com/)/request-quote.html)**
+👉 **Feel free to request an appointement on [Appointments]([https://www.devbriet.com](http://devbriet.com/)/request-quote.html)**
 
 
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently doing Masters in Data Science.
 - 💞️ I’m looking to connect with graduates from IT field. 
-- 📫 go to https://devbriets.pythonanywhere.com to reach me.
+- 📫 go to http://devbriet.com to reach me.
 
 Languages and Tools:
 Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
 
-If you wanna hire me for your projects then contact me on https://devbriets.pythonanywhere.com/contact-us.html or send mail to info@devbriet.com
+If you wanna hire me for your projects then contact me on http://devbriet.com/contact-us.html or send mail to info@devbriet.com
 
 
 
