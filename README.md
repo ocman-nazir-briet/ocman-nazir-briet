@@ -17,7 +17,7 @@ I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and 
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on [Appointments]([https://www.devbriet.com](http://devbriet.com/)/request-quote.html)**
+👉 **Feel free to request an appointement on [Appointments]([https://www.devbriet.com](http://devbriet.com/)/request-quote)**
 
 
 - 👀 I’m interested in Data Science.
@@ -28,7 +28,7 @@ Don't be surprised, it's just what I love doing!
 Languages and Tools:
 Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
 
-If you wanna hire me for your projects then contact me on http://devbriet.com/contact-us.html or send mail to info@devbriet.com
+If you wanna hire me for your projects then contact me on http://devbriet.com/contact-us or send mail to info@devbriet.com
 
 
 
