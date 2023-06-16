@@ -7,7 +7,7 @@ I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and 
 
 <p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,react,html,css,tailwind,javascript,vscode,cli"/> </p>
 
-## 📫 How to reach me
+## 📫 How to reach me!
 
 * 🔗 I have a personal website at [devbriet.com](http://devbriet.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
 * 💬 [Telegram](https://t.me/blackghost1337)
