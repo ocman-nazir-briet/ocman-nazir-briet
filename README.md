@@ -26,7 +26,7 @@ Don't be surprised, it's just what I love doing!
 - 📫 go to www.devbriet.com to reach me.
 
 Languages and Tools:
-Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL
+Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL, Big Data
 
 If you wanna hire me for your projects then contact me on http://devbriet.com/contact-us or send mail to info@devbriet.com
 
