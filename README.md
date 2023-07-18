@@ -1,4 +1,4 @@
-# Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer | Now living in Pakistan
+# Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer & Data Engineer| Now living in Pakistan
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow)](https://twitter.com/ocmannazirbriet)
 [![Linkedin: theocman-nazir-briet](https://img.shields.io/badge/-ocman%20nazir%20briet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ocman-nazir-briet/)](https://www.linkedin.com/in/ocman-nazir-briet/)
