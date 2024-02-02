@@ -1,9 +1,9 @@
-# Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer & Data Engineer| Now living in Pakistan
+# Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer & Data Engineer| Now living in San Francisco, CA. USA 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow)](https://twitter.com/ocmannazirbriet)
 [![Linkedin: theocman-nazir-briet](https://img.shields.io/badge/-ocman%20nazir%20briet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ocman-nazir-briet/)](https://www.linkedin.com/in/ocman-nazir-briet/)
 
-I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and Software Engineer by passion and an expat by choice living now in Lahore, Pakistan. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) in 2020 and have been passionate about open-source since. I'm also interested in data Science Engineering. I'm always working on a new project to help the community.
+I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and Software Engineer by passion and an expat by choice living now in San Francisco, CA, United States. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) in 2020 and have been passionate about open-source since. I'm also interested in data Science Engineering. I'm always working on a new project to help the community.
 
 <p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,vue,html,css,tailwind,javascript,vscode,cli"/> </p>
 
