@@ -24,7 +24,7 @@ I'm **Ocman Nazir Briet**, a passionate technologist with deep roots in **full-s
 - 🌐 Full-stack specialist using Django + React + DevOps (CI/CD, Docker, AWS)
 - 🧠 Master's in **Data Science** in progress
 - 🎓 Certified Ethical Hacker (CEH)
-- 💡 Founder of [DevBriet.com](http://devbriet.com) — Portfolio, Blog, and Contact HQ
+- 💡 Founder of [DevBriet.com](http://devbriet.com)
 - 🌍 Open to consulting, mentorship, and startup collaborations
 
 ---
@@ -66,7 +66,7 @@ I'm **Ocman Nazir Briet**, a passionate technologist with deep roots in **full-s
 - 🔗 Personal Website: [**www.devbriet.com**](http://devbriet.com/?utm_source=github&utm_medium=profile_readme)
 - 💬 Telegram: [@blackghost1337](https://t.me/blackghost1337)
 - 📬 Email: [info@devbriet.com](mailto:info@devbriet.com)
-- 🗓️ Request Mentorship/Advice: [Book Here](http://devbriet.com/request-quote)
+- 🗓️ Request Mentorship/Advice: [Book Here](https://www.linkedin.com/in/ocman-nazir-briet)
 
 ---
 
@@ -84,8 +84,8 @@ I believe in the power of **open source** and **community-first development**. W
 
 - Researching behavioral anomaly detection systems using ML for login patterns
 - Enhancing Wazuh-based SIEM pipelines with alert categorization
-- Building custom AI-powered voice/character bots (Urdu, English, Punjabi)
-- Running infrastructure at [Cytex.io](https://cytex.io)
+- Building custom AI-powered voice/character bots (Multi Lingual)
+- Running infrastructure at reputed Cyber-Security organizations
 
 ---
 
