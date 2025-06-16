@@ -1,52 +1,121 @@
-# Hi there, I'm Ocman Nazir Briet! Full Stack Web Developer, Security Expert & AI Engineer| Now living in San Francisco, California, United States.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow)](https://twitter.com/ocmannazirbriet)
-[![Linkedin: theocman-nazir-briet](https://img.shields.io/badge/-ocman%20nazir%20briet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ocman-nazir-briet/)](https://www.linkedin.com/in/ocman-nazir-briet/)
-
-I'm **Ocman Nazir Briet**, a Full Stack Developer, Certified Ethical Hacker and Software Engineer by passion and an expat by choice living now in San Francisco, CA, United States. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) in 2020 and have been passionate about open-source since. I'm also interested in data Science Engineering. I'm always working on a new project to help the community.
-
-<p align="center"><img src="https://skillicons.dev/icons?i=django,python,flask,nodejs,git,github,gitlab,linux,aws,vue,html,css,tailwind,javascript,vscode,cli"/> </p>
-
-## 📫 How to reach me!
-
-* 🔗 I have a personal website at [devbriet.com](http://devbriet.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-* 💬 [Telegram](https://t.me/blackghost1337)
-
-## 👋 If you need some advices or mentorship
-
-Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
-Don't be surprised, it's just what I love doing!
-
-👉 **Feel free to request an appointement on [Appointments]([https://www.devbriet.com](http://devbriet.com/)/request-quote)**
-
-
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently doing Masters in Data Science.
-- 💞️ I’m looking to connect with graduates from IT field. 
-- 📫 go to www.devbriet.com to reach me.
-
-Languages and Tools:
-Python, C++, C, JavaScript, Django, Flask, DevOps, Node JS, React, HTML5, CSS3, SQL, MYSQL, PostgreSQL, Big Data
-
-If you wanna hire me for your projects then contact me on http://devbriet.com/contact-us or send mail to info@devbriet.com
-
-
+<h1 align="center">Hi there, I'm Ocman Nazir Briet 👋</h1>
+<h3 align="center">Full Stack Developer | Certified Ethical Hacker | AI Engineer | Security Researcher</h3>
+<h4 align="center">Currently based in 🌉 San Francisco, California, United States 🇺🇸</h4>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&include_all_commits=true&hide_border=true" /> |    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&langs_count=8&layout=compact&hide_border=true" />
+  <a href="https://twitter.com/ocmannazirbriet">
+    <img src="https://img.shields.io/twitter/follow/ocmannazirbriet?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/ocman-nazir-briet/">
+    <img src="https://img.shields.io/badge/-ocman%20nazir%20briet-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ocman-nazir-briet">
+    <img src="https://img.shields.io/github/followers/ocman-nazir-briet?style=social" />
+  </a>
+</p>
+
+---
+
+## 🔥 About Me
+
+I'm **Ocman Nazir Briet**, a passionate technologist with deep roots in **full-stack development**, **offensive/defensive cybersecurity**, and **artificial intelligence engineering**. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) initiative in 2020 and have since contributed to numerous open-source and commercial platforms. My mission is to blend secure architecture with scalable software systems while mentoring others and building impactful tech communities.
+
+- 💻 **Over 4 years** of industry experience in software engineering
+- 🌐 Full-stack specialist using Django + React + DevOps (CI/CD, Docker, AWS)
+- 🧠 Master's in **Data Science** in progress
+- 🎓 Certified Ethical Hacker (CEH)
+- 💡 Founder of [DevBriet.com](http://devbriet.com) — Portfolio, Blog, and Contact HQ
+- 🌍 Open to consulting, mentorship, and startup collaborations
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs,tailwind,js,html,css,git,github,linux,postgres,mysql,mongodb,aws,vscode,bash" />
+</p>
+
+- **Languages**: Python, JavaScript, C++, C, Bash
+- **Frameworks**: Django, Flask, React.js, Node.js, Express
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
+- **Security**: Wazuh, Suricata, Wireshark, Nmap, Burp Suite, CEH practices
+- **DevOps**: Docker, GitHub Actions, Systemd, Crontab, AWS EC2/S3
+- **Tools**: VSCode, Postman, ZAP, Git CLI, Notion, tmux
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ocman-nazir-briet&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocman-nazir-briet&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocman-nazir-briet&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ocman-nazir-briet&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ocman-nazir-briet&theme=juicyfresh&no-bg=true&margin-w=15" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
+- 🔗 Personal Website: [**www.devbriet.com**](http://devbriet.com/?utm_source=github&utm_medium=profile_readme)
+- 💬 Telegram: [@blackghost1337](https://t.me/blackghost1337)
+- 📬 Email: [info@devbriet.com](mailto:info@devbriet.com)
+- 🗓️ Request Mentorship/Advice: [Book Here](http://devbriet.com/request-quote)
+
+---
+
+## 👥 Let's Collaborate!
+
+I believe in the power of **open source** and **community-first development**. Whether you're building a platform, securing systems, or experimenting with AI/ML, I’d love to hear from you.
+
+- 🚀 Building an early-stage startup? Let’s talk security and scalability.
+- 🧠 Need AI insights or log anomaly detection tools? I’ve built multiple end-to-end ML pipelines.
+- 💬 Looking for a mentor? Book a free mentorship session via my website.
+
+---
+
+## 🧠 Current Focus
+
+- Researching behavioral anomaly detection systems using ML for login patterns
+- Enhancing Wazuh-based SIEM pipelines with alert categorization
+- Building custom AI-powered voice/character bots (Urdu, English, Punjabi)
+- Running infrastructure at [Cytex.io](https://cytex.io)
+
+---
+
+## 💡 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 **CloudSysLog** | Real-time anomaly detection for cloud apps using rules + ML | Python, Flask, PostgreSQL, Wazuh |
+| 📊 **Anomaly Detection PoC** | Log pattern analysis using z-scores & feature extraction | Pandas, CLI, CSV |
+| 🛡️ **ThreatScanner** | Lightweight agent to detect MITRE ATT&CK TTPs in logs | Python, Sigma, MITRE |
+
+---
+
+## 🧠 Languages & Areas of Expertise
+
+- ✅ Python | Django | React | Flask | JavaScript
+- ✅ Linux | Bash | Git | Docker | PostgreSQL | MongoDB
+- ✅ Network Forensics | SIEMs | Rule-Based Engines | Threat Intel
+- ✅ AI/ML | Time Series | Log Parsing | NLP | Voice ML
+
+---
+
+> **"Security, Scalability, and Simplicity — that’s my dev philosophy."**  
+> – Ocman Nazir Briet
+
+---
+
+<!-- FOOTER -->
 
 <!---
-ocman-nazir-briet/ocman-nazir-briet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ocman-nazir-briet/ocman-nazir-briet is a ✨ special ✨ repo because its `README.md` appears on your GitHub profile.
+To showcase your skills, pin it and keep it updated!
 --->
