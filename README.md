@@ -18,7 +18,7 @@
 
 ## 🔥 About Me
 
-I'm **Ocman Nazir Briet**, a passionate technologist with deep roots in **full-stack development**, **offensive/defensive cybersecurity**, and **artificial intelligence engineering**. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) initiative in 2020 and have since contributed to numerous open-source and commercial platforms. My mission is to blend secure architecture with scalable software systems while mentoring others and building impactful tech communities.
+A passionate technologist with deep roots in **full-stack development**, **offensive/defensive cybersecurity**, and **artificial intelligence engineering**. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) initiative in 2020 and have since contributed to numerous open-source and commercial platforms. My mission is to blend secure architecture with scalable software systems while mentoring others and building impactful tech communities.
 
 - 💻 **Over 4 years** of industry experience in software engineering
 - 🌐 Full-stack specialist using Django + React + DevOps (CI/CD, Docker, AWS)
