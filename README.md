@@ -20,7 +20,7 @@
 
 A passionate technologist with deep roots in **full-stack development**, **offensive/defensive cybersecurity**, and **artificial intelligence engineering**. I created the [Django-React-Projects](https://github.com/ocman-nazir-briet) initiative in 2020 and have since contributed to numerous open-source and commercial platforms. My mission is to blend secure architecture with scalable software systems while mentoring others and building impactful tech communities.
 
-- 💻 **Over 4 years** of industry experience in software engineering
+- 💻 **Over 6 years** of industry experience in software engineering
 - 🌐 Full-stack specialist using Django + React + DevOps (CI/CD, Docker, AWS)
 - 🧠 Master's in **Data Science** in progress
 - 🎓 Certified Ethical Hacker (CEH)
@@ -35,7 +35,7 @@ A passionate technologist with deep roots in **full-stack development**, **offen
   <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs,tailwind,js,html,css,git,github,linux,postgres,mysql,mongodb,aws,vscode,bash" />
 </p>
 
-- **Languages**: Python, JavaScript, C++, C, Bash
+- **Languages**: Python, Go, JavaScript, C++, C, Bash
 - **Frameworks**: Django, Flask, React.js, Node.js, Express
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
 - **Security**: Wazuh, Suricata, Wireshark, Nmap, Burp Suite, CEH practices
