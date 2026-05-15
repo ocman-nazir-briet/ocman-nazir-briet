@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ocman Nazir Briet 👋</h1>
 <h3 align="center">Full Stack Developer | Certified Ethical Hacker | AI Engineer | Security Researcher</h3>
-<h4 align="center">Currently based in 🌉 Lahore, Punjab, PK 🇺🇸</h4>
+<h4 align="center">Currently based in 🌉 Lahore, Punjab, PK </h4>
 
 <p align="center">
   <a href="https://twitter.com/ocmannazirbriet">
